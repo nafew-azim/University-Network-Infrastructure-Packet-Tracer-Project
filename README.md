@@ -6,6 +6,8 @@
 
 ---
 
+<img src="Wireless_mesh_network_diagram.jpg" alt="top-banner" style="width:100%; max-height:260px; object-fit:cover;"/>
+
 ## Table of Contents
 
 * [Project Overview](#project-overview)
